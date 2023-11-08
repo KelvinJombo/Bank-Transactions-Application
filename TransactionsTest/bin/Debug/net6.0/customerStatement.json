@@ -1,0 +1,24 @@
+[
+  {
+    "Key": "67890",
+    "Value": [
+      "Kelvin Jombo",
+      "200",
+      "67890",
+      "Current",
+      "-200",
+      "CREDIT"
+    ]
+  },
+  {
+    "Key": "12345",
+    "Value": [
+      "Kelvin Jombo",
+      "200",
+      "12345",
+      "Savings",
+      "-200",
+      "DEBIT"
+    ]
+  }
+]

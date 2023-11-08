@@ -1,0 +1,82 @@
+{
+  "1269103091": {
+    "firstname": "Ilodibe",
+    "lastname": "Onyedika",
+    "phoneNumber": "09031472109",
+    "email": "Ilodibe@gmail.com",
+    "balance": 0.0,
+    "accountType": "",
+    "password": "@Onyedika1",
+    "BVN": "12345678912"
+  },
+  "1256685549": {
+    "firstname": "Chisom",
+    "lastname": "onyedika",
+    "phoneNumber": "09031472109",
+    "email": "onyedika@gmail.com",
+    "balance": 10000.0,
+    "accountType": "",
+    "password": "@Onyedika1",
+    "BVN": "012345678912"
+  },
+  "1281344426": {
+    "firstname": "Tony",
+    "lastname": "Obi",
+    "phoneNumber": "08033333333",
+    "email": "tony@yahoo.com",
+    "balance": 15000.0,
+    "accountType": "SAVINGS",
+    "password": "Tony20#",
+    "BVN": "3333333333"
+  },
+  "1247307633": {
+    "firstname": "Bob",
+    "lastname": "Jon",
+    "phoneNumber": "07063635197",
+    "email": "jon@yahoo.com",
+    "balance": 0.0,
+    "accountType": "SAVINGS",
+    "password": "Jon20#",
+    "BVN": "12345678909"
+  },
+  "1377157273": {
+    "firstname": "St",
+    "lastname": "Jon",
+    "phoneNumber": "08022222222",
+    "email": "jon@gmail.com",
+    "balance": 0.0,
+    "accountType": "SAVINGS",
+    "password": "Jon20#",
+    "BVN": "44444444444"
+  },
+  "1324279817": {
+    "firstname": "Tom",
+    "lastname": "Tom",
+    "phoneNumber": "08011111111",
+    "email": "tom@gmail.com",
+    "balance": 0.0,
+    "accountType": "SAVINGS",
+    "password": "Tom20#",
+    "BVN": "33333333333"
+  },
+  "1289283270": {
+    "firstname": "Kelvin",
+    "lastname": "Jombo",
+    "phoneNumber": "08063635197",
+    "email": "kelly2000@yahoo.com",
+    "balance": 0.0,
+    "accountType": "SAVINGS",
+    "password": "Kelvin20#",
+    "BVN": "66666666666"
+  },
+  "1003036134": {
+    "firstname": "Ola",
+    "lastname": "Oye",
+    "phoneNumber": "08099999999",
+    "email": "ola@yahoo.com",
+    "balance": 17000.0,
+    "accountType": "SAVINGS",
+    "password": "Ola20#",
+    "BVN": "99999999999"
+  }
+}

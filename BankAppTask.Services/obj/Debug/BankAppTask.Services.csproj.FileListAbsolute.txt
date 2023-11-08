@@ -1,0 +1,62 @@
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\BankAppTask.Services.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\BankAppTask.Services.pdb
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\BankAppTask.Model.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\BankAppTask.Tools.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\BankAppTask.Model.pdb
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\BankAppTask.Tools.pdb
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\obj\Debug\BankAppTask.Services.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\obj\Debug\BankAppTask.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\obj\Debug\BankAppTask.Services.csproj.CopyComplete
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\obj\Debug\BankAppTask.Services.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\obj\Debug\BankAppTask.Services.pdb
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Buffers.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Memory.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Text.Json.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Buffers.xml
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Memory.xml
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Text.Json.xml
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\OneDrive\Documents\BankAppTask\BankAppTask.Services\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\BankAppTask.Services.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\BankAppTask.Services.pdb
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\BankAppTask.Model.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\BankAppTask.Tools.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Buffers.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Memory.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Text.Json.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\BankAppTask.Model.pdb
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\BankAppTask.Tools.pdb
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Buffers.xml
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Memory.xml
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Text.Json.xml
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\obj\Debug\BankAppTask.Services.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\obj\Debug\BankAppTask.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\obj\Debug\BankAppTask.Services.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\obj\Debug\BankAppTask.Services.dll
+C:\Users\HP\OneDrive\Desktop\Decagon Tasks\week-4-task-KelvinJombo\BankApp\BankAppTask.Services\obj\Debug\BankAppTask.Services.pdb
